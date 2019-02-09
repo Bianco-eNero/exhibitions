@@ -1,0 +1,6 @@
+2019-02-07T11:26:12+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\exhibitions\wp-includes\wp-db.php on line 1924
+
+2019-02-07T12:18:04+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\exhibitions\wp-content\themes\massive-dynamic\lib\shortcodes\md_tab\index.php on line 8
+
+2019-02-07T12:35:30+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\exhibitions\wp-content\plugins\js_composer\include\classes\settings\class-vc-automapper.php on line 2
+

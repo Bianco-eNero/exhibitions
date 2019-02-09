@@ -1,0 +1,6 @@
+2019-02-09T09:48:50+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\exhibitions\wp-includes\Requests\Transport\cURL.php on line 163
+
+2019-02-09T09:48:50+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\exhibitions\wp-content\themes\massive-dynamic\functions.php on line 95
+
+2019-02-09T11:14:21+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\exhibitions\wp-includes\Requests\Transport\cURL.php on line 441
+
